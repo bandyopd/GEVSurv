@@ -10,3 +10,6 @@ Other files need to be sourced, as mentioned in (a) and (b)
 (c) TeethG.csv: (Sample) Oral health dataset of 100 subjects
 
 (d) TeethDictionary.txt: Description of the variables in TeethG.csv
+
+
+Reference: Han J, Ha I-D, Lee Y and Bandyopadhyay D. A h-likelihood approach to fitting accelerated failure time models for clustered heavily censored data, (Under Review), Statistical Methods in Medical Research
