@@ -5,7 +5,7 @@ R code to fit a h-likelihood based Accelerated failure time (AFT) Generalized Ex
 
 (b) N.R: implements the AFT-Normal model 
 
-Other files need to be sourced, as mentioned in (a) and (b) 
+Other files need to be placed in a directory, and sourced accordingly, as described in (a) and (b) 
 
 (c) TeethG.csv: (Sample) Oral health dataset of 100 subjects
 
