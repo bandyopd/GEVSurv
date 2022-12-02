@@ -1,0 +1,26 @@
+### Description of the Oral Health AxiUm data from Creighton University
+### Written by Dipankar Bandyopadhyay, PhD (Virginia Commonwealth University, USA)
+
+
+The full dataset can be obtained via reasonable request to Dipankar Bandyopadhyay (E-mail: dbandyop@vcu.edu) 
+
+
+id: subject id
+tooth: teeth number inside each id
+event/delta: 1 = failure, 0 = censored
+time: time-to-event
+Mobility: mobility score, on a scale 0-5 (continuous)
+BOP: % of tooth-sites that bled when probed (continuous)
+Plaque: % of tooth-sites stained with bacterial plaque (continuous)
+Pdmean: (baseline) mean pocket depth for that tooth (continuous)
+CALmean: (baseline) mean clinical attachment level for that tooth (continuous)
+Crown: Binary (1/0), Tooth has crown, or not
+Filled: Binary (1/0), Tooth has fillings, or not
+Decayed: Binary (1/0), Tooth has decayed surfaces, or not
+Dfsites: Total number of decayed AND filled sites, per tooth (considered continuous, can also be count)
+Age: Patient age at baseline (in years)
+Gender: Binary (M/F)
+Diabetes: Binary (1/0); Subject is Type-2 diabetic, or not  
+Tobacco: Binary (1/0); Had Tobacco, or Never had
+Molar: Binary (1/0); Is the tooth a molar = 1, vs not = 0)
+  
