@@ -12,4 +12,4 @@ Other files need to be placed in a directory, and sourced accordingly, as descri
 (d) TeethDictionary.txt: Description of the variables in TeethG.csv
 
 
-Reference: Han J, Ha I-D, Lee Y and Bandyopadhyay D. A h-likelihood approach to fitting accelerated failure time models for clustered heavily censored data, (Under Review), Statistical Methods in Medical Research
+Reference: Han J, Ha I-D, Lee Y and Bandyopadhyay D. A h-likelihood approach to fitting accelerated failure time models for clustered heavily censored data, (Under Revision), Journal of Applied Statistics
